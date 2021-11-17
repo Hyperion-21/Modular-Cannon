@@ -64,7 +64,7 @@
         "muzzleCenterX": 1.5625, "muzzleCenterY": 1, "muzzleLength": 1.9375,
         "hitParticle": "damaged_spark",
         "weaponAppearance": {
-			"shot": { "src": "modules", "x": 149, "y": 482, "w": 3, "h": 3 },
+			"shot": { "src": "modular_spritesheet", "x": 64, "y": 32, "w": 12, "h": 5 },
 			"barrel": { "src": "modular_spritesheet", "x": 0, "y": 32, "w": 62, "h": 8 },
 			"barrelX": -6, "barrelY": 12,
 			"recoil": 6
