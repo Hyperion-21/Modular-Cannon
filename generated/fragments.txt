@@ -1,36 +1,45 @@
 MODULAR_CANNON 0 wreckage
 modular_spritesheetFRAGMENTS
-0 0 5 8 1 26
+0 0 9 7 9 27
+MODULAR_AERO1 0 wreckage
+modular_spritesheetFRAGMENTS
+9 0 34 8 1 26
+MODULAR_AERO2 0 wreckage
+modular_spritesheetFRAGMENTS
+43 0 34 8 1 26
+MODULAR_AERO3 0 wreckage
+modular_spritesheetFRAGMENTS
+77 0 34 8 1 26
 MODULAR_CANNON 0 wreckage
 modular_spritesheetFRAGMENTS
-5 0 8 8 10 26
+111 0 4 8 1 26
 MODULAR_CANNON 0 wreckage
 modular_spritesheetFRAGMENTS
-13 0 6 8 23 26
+115 0 6 8 23 26
 MODULAR_EXPLOSIVE1 0 wreckage
 modular_spritesheetFRAGMENTS
-19 0 34 8 1 26
+121 0 34 8 1 26
 MODULAR_EXPLOSIVE2 0 wreckage
 modular_spritesheetFRAGMENTS
-53 0 34 8 1 26
+155 0 34 8 1 26
 MODULAR_EXPLOSIVE3 0 wreckage
 modular_spritesheetFRAGMENTS
-87 0 34 8 1 26
+189 0 34 8 1 26
 MODULAR_KINETIC1 0 wreckage
 modular_spritesheetFRAGMENTS
-121 0 34 8 1 26
+223 0 34 8 1 26
 MODULAR_KINETIC2 0 wreckage
 modular_spritesheetFRAGMENTS
-155 0 34 8 1 26
+257 0 34 8 1 26
 MODULAR_KINETIC3 0 wreckage
 modular_spritesheetFRAGMENTS
-189 0 34 8 1 26
+291 0 34 8 1 26
 MODULAR_SPEED1 0 wreckage
 modular_spritesheetFRAGMENTS
-223 0 34 8 1 26
+325 0 34 8 1 26
 MODULAR_SPEED2 0 wreckage
 modular_spritesheetFRAGMENTS
-257 0 34 8 1 26
+359 0 34 8 1 26
 MODULAR_SPEED3 0 wreckage
 modular_spritesheetFRAGMENTS
-291 0 34 8 1 26
+393 0 34 8 1 26

@@ -32,7 +32,10 @@
             "multipliers": {
                 "KINETIC1": 1.2,
                 "KINETIC2": 1.167,
-                "KINETIC3": 1.143
+                "KINETIC3": 1.143,
+				"AERO1": 1.2,
+				"AERO2": 1.167,
+				"AERO3": 1.143
             }
         },
         "blastDmg": {
@@ -60,8 +63,18 @@
             }
         },
 		"clip": 1,
+		"ammoPerClip": {
+			"base": 3
+		},
+		"inaccuracy": {
+			"base": 0.0014,
+			"multipliers": {
+				"AERO1": 0.8,
+				"AERO2": 0.8,
+				"AERO3": 0.8
+			}
+		},
 		"recoilForce": 1.2,
-		"inaccuracy": 0.0014,
 		"optimumRange": 400,
 		"fireArc": { "direction": "forwards", "degrees": 55 },
         "muzzleCenterX": 1.5625, "muzzleCenterY": 1, "muzzleLength": 1.9375,

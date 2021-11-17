@@ -25,5 +25,14 @@
     },
     {
         "name": "SPEED3"
+    },
+    {
+        "name": "AERO1"
+    },
+    {
+        "name": "AERO2"
+    },
+    {
+        "name": "AERO3"
     }
 ]
