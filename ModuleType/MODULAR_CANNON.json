@@ -15,7 +15,14 @@
 		"cost": 75,
 		"crew": 1,
 		"recommendedCrew": 2, "recommendedGuards": 1,
-		"penDmg": 40,
+		"penDmg": {
+            "base": 40,
+            "multipliers": {
+                "KINETIC1": 1.5,
+                "KINETIC2": 1.34,
+                "KINETIC3": 1.25
+            }
+        },
 		"reload": 3500,
 		"clip": 1,
 		"recoilForce": 1.2,

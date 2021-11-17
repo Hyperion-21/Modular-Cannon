@@ -7,3 +7,12 @@ modular_spritesheetFRAGMENTS
 MODULAR_CANNON 0 wreckage
 modular_spritesheetFRAGMENTS
 13 0 6 8 23 26
+MODULAR_KINETIC1 0 wreckage
+modular_spritesheetFRAGMENTS
+19 0 34 8 1 26
+MODULAR_KINETIC2 0 wreckage
+modular_spritesheetFRAGMENTS
+53 0 34 8 1 26
+MODULAR_KINETIC3 0 wreckage
+modular_spritesheetFRAGMENTS
+87 0 34 8 1 26
