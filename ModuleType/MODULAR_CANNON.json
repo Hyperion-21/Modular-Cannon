@@ -48,7 +48,14 @@
                 "EXPLOSIVE3": 1.5
             }
         },
-		"reload": 3500,
+		"reload": {
+            "base": 3500,
+            "multipliers": {
+                "SPEED1": 0.8571,
+                "SPEED2": 0.8334,
+                "SPEED3": 0.8
+            }
+        },
 		"clip": 1,
 		"recoilForce": 1.2,
 		"inaccuracy": 0.0014,

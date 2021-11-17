@@ -25,3 +25,12 @@ modular_spritesheetFRAGMENTS
 MODULAR_KINETIC3 0 wreckage
 modular_spritesheetFRAGMENTS
 189 0 34 8 1 26
+MODULAR_SPEED1 0 wreckage
+modular_spritesheetFRAGMENTS
+223 0 34 8 1 26
+MODULAR_SPEED2 0 wreckage
+modular_spritesheetFRAGMENTS
+257 0 34 8 1 26
+MODULAR_SPEED3 0 wreckage
+modular_spritesheetFRAGMENTS
+291 0 34 8 1 26
