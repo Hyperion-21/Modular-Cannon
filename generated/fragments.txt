@@ -1,0 +1,9 @@
+MODULAR_CANNON 0 wreckage
+modular_spritesheetFRAGMENTS
+0 0 5 8 1 26
+MODULAR_CANNON 0 wreckage
+modular_spritesheetFRAGMENTS
+5 0 8 8 10 26
+MODULAR_CANNON 0 wreckage
+modular_spritesheetFRAGMENTS
+13 0 6 8 23 26
