@@ -12,7 +12,7 @@
 		"explodeHP": 30,
 		"explodeDmg": 35,
 		"weight": 70,
-		"cost": 75,
+		"cost": 300,
 		"crew": 2,
 		"recommendedCrew": 3, "recommendedGuards": 1,
         "isExplosive": true,

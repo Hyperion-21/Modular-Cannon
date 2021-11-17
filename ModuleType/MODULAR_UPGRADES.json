@@ -12,7 +12,7 @@
 		"explodeHP": 30,
 		"explodeDmg": 35,
 		"weight": 70,
-		"cost": 75,
+		"cost": 50,
 		"crew": 1,
 		"recommendedCrew": 1
     },
@@ -28,7 +28,7 @@
 		"explodeHP": 30,
 		"explodeDmg": 35,
 		"weight": 70,
-		"cost": 75,
+		"cost": 150,
 		"crew": 1,
 		"recommendedCrew": 1
     },
@@ -44,7 +44,7 @@
 		"explodeHP": 30,
 		"explodeDmg": 35,
 		"weight": 70,
-		"cost": 75,
+		"cost": 300,
 		"crew": 1,
 		"recommendedCrew": 1
     },
@@ -61,7 +61,7 @@
 		"explodeHP": 30,
 		"explodeDmg": 35,
 		"weight": 70,
-		"cost": 75,
+		"cost": 50,
 		"crew": 1,
 		"recommendedCrew": 1
     },
@@ -77,7 +77,7 @@
 		"explodeHP": 30,
 		"explodeDmg": 35,
 		"weight": 70,
-		"cost": 75,
+		"cost": 150,
 		"crew": 1,
 		"recommendedCrew": 1
     },
@@ -93,7 +93,7 @@
 		"explodeHP": 30,
 		"explodeDmg": 35,
 		"weight": 70,
-		"cost": 75,
+		"cost": 300,
 		"crew": 1,
 		"recommendedCrew": 1
     }
