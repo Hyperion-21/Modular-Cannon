@@ -13,8 +13,9 @@
 		"explodeDmg": 35,
 		"weight": 70,
 		"cost": 75,
-		"crew": 1,
-		"recommendedCrew": 2, "recommendedGuards": 1,
+		"crew": 2,
+		"recommendedCrew": 3, "recommendedGuards": 1,
+        "isExplosive": true,
 		"penDmg": {
             "base": 40,
             "multipliers": {
@@ -29,6 +30,22 @@
                 "KINETIC1": 1.2,
                 "KINETIC2": 1.167,
                 "KINETIC3": 1.143
+            }
+        },
+        "blastDmg": {
+            "base": 1,
+            "multipliers": {
+                "EXPLOSIVE1": 15,
+                "EXPLOSIVE2": 2,
+                "EXPLOSIVE3": 1.5
+            }
+        },
+        "blastSplashRadius": {
+            "base": 1,
+            "multipliers": {
+                "EXPLOSIVE1": 15,
+                "EXPLOSIVE2": 2,
+                "EXPLOSIVE3": 1.5
             }
         },
 		"reload": 3500,
