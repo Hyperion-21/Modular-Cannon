@@ -23,6 +23,14 @@
                 "KINETIC3": 1.25
             }
         },
+        "shotSpeed": {
+            "base": 2.5,
+            "multipliers": {
+                "KINETIC1": 1.2,
+                "KINETIC2": 1.167,
+                "KINETIC3": 1.143
+            }
+        },
 		"reload": 3500,
 		"clip": 1,
 		"recoilForce": 1.2,
