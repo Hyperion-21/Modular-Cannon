@@ -62,9 +62,13 @@
                 "SPEED3": 0.8
             }
         },
-		"clip": 1,
 		"ammoPerClip": {
-			"base": 3
+			"base": 4,
+			"multipliers": {
+				"AMMO1": 0.75,
+				"AMMO2": 0.67,
+				"AMMO3": 0.5
+			}
 		},
 		"inaccuracy": {
 			"base": 0.0014,

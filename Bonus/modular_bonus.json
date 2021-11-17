@@ -34,5 +34,14 @@
     },
     {
         "name": "AERO3"
+    },
+    {
+        "name": "AMMO1"
+    },
+    {
+        "name": "AMMO2"
+    },
+    {
+        "name": "AMMO3"
     }
 ]
