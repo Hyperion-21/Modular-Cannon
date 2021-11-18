@@ -3,6 +3,7 @@
         "name": "MODULAR_CANNON",
         "categories": [ "WEAPONS" ],
 		"required": "MODULAR_CANNON",
+		"variants": [ "MODULAR_CANNON_HEAVY" ],
         "isWeapon": true, "isGun": true, "isCannon": true,
         "w": 4, "h": 2,
         "appearance": { "src": "modular_spritesheet", "x": 0, "y": 0, "w": 4, "h": 2 },
