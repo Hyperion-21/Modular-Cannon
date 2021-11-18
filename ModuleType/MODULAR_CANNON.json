@@ -3,7 +3,7 @@
         "name": "MODULAR_CANNON",
         "categories": [ "WEAPONS" ],
 		"required": "MODULAR_CANNON",
-		"variants": [ "MODULAR_CANNON_HEAVY" ],
+		"variants": [ "MODULAR_CANNON_HEAVY", "MODULAR_CANNON_LIGHT" ],
         "isWeapon": true, "isGun": true, "isCannon": true,
         "w": 4, "h": 2,
         "appearance": { "src": "modular_spritesheet", "x": 0, "y": 0, "w": 4, "h": 2 },
@@ -238,6 +238,83 @@
 			"shot": { "src": "modular_spritesheet", "x": 64, "y": 32, "w": 12, "h": 5 },
 			"barrel": { "src": "modular_spritesheet", "x": 80, "y": 32, "w": 186, "h": 12 },
 			"barrelX": -20, "barrelY": 10,
+			"recoil": 6
+        }
+	},
+	{
+		"name": "MODULAR_CANNON_LIGHT",
+		"deriveFrom": "MODULAR_CANNON",
+		"w": 7, "h": 2, 
+		"appearance": { "src": "modular_spritesheet", "x": 18, "y": 0, "w": 7, "h": 2 },
+		"mask": { "x": 4, "y": 0 },
+		"topOnlyList": [ 6 ],
+		"bottomOnlyList": [ 6 ],
+		"crew": 3, "recommendedCrew": 4,
+		"penDmg": {
+            "base": 20,
+            "multipliers": {
+                "KINETIC1": 1.5,
+                "KINETIC2": 1.34,
+                "KINETIC3": 1.25
+            }
+        },
+        "shotSpeed": {
+            "base": 3,
+            "multipliers": {
+                "KINETIC1": 1.2,
+                "KINETIC2": 1.167,
+                "KINETIC3": 1.143,
+				"AERO1": 1.2,
+				"AERO2": 1.167,
+				"AERO3": 1.143
+            }
+        },
+        "blastDmg": {
+            "base": 1,
+            "multipliers": {
+                "EXPLOSIVE1": 8,
+                "EXPLOSIVE2": 2,
+                "EXPLOSIVE3": 1.5
+            }
+        },
+        "blastSplashRadius": {
+            "base": 1,
+            "multipliers": {
+                "EXPLOSIVE1": 8,
+                "EXPLOSIVE2": 2,
+                "EXPLOSIVE3": 1.5
+            }
+        },
+		"reload": {
+            "base": 1500,
+            "multipliers": {
+                "SPEED1": 0.8571,
+                "SPEED2": 0.8334,
+                "SPEED3": 0.8
+            }
+        },
+		"ammoPerClip": 1,
+		"clip": {
+			"base": 1,
+			"multipliers": {
+				"AMMO1": 2,
+				"AMMO2": 1.5,
+				"AMMO3": 1.34
+			}
+		},
+		"inaccuracy": {
+			"base": 0.0014,
+			"multipliers": {
+				"AERO1": 0.8,
+				"AERO2": 0.8,
+				"AERO3": 0.8
+			}
+		},
+		"muzzleCenterX": 4.5625, "muzzleCenterY": 1, "muzzleLength": 5.8125,
+		"weaponAppearance": {
+			"shot": { "src": "modular_spritesheet", "x": 64, "y": 32, "w": 12, "h": 5 },
+			"barrel": { "src": "modular_spritesheet", "x": 272, "y": 32, "w": 58, "h": 6 },
+			"barrelX": 44, "barrelY": 13,
 			"recoil": 6
         }
 	}
