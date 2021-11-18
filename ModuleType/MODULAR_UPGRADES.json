@@ -2,6 +2,7 @@
     {
         "name": "MODULAR_KINETIC1",
         "categories": [ "WEAPONS" ],
+		"required": "MODULAR_CANNON",
         "variants": [ "MODULAR_KINETIC2", "MODULAR_KINETIC3" ],
         "providesBonus": "KINETIC1",
         "w": 2, "h": 2,
@@ -19,6 +20,7 @@
     {
         "name": "MODULAR_KINETIC2",
         "categories": [ "WEAPONS" ],
+		"required": "MODULAR_CANNON",
         "providesBonus": "KINETIC2",
         "w": 2, "h": 2,
         "appearance": { "src": "modular_spritesheet", "x": 0, "y": 5, "w": 3, "h": 2 },
@@ -35,6 +37,7 @@
     {
         "name": "MODULAR_KINETIC3",
         "categories": [ "WEAPONS" ],
+		"required": "MODULAR_CANNON",
         "providesBonus": "KINETIC3",
         "w": 2, "h": 2,
         "appearance": { "src": "modular_spritesheet", "x": 0, "y": 7, "w": 3, "h": 2 },
@@ -51,6 +54,7 @@
     {
         "name": "MODULAR_EXPLOSIVE1",
         "categories": [ "WEAPONS" ],
+		"required": "MODULAR_CANNON",
         "variants": [ "MODULAR_EXPLOSIVE2", "MODULAR_EXPLOSIVE3" ],
         "providesBonus": "EXPLOSIVE1",
         "w": 2, "h": 2,
@@ -68,6 +72,7 @@
     {
         "name": "MODULAR_EXPLOSIVE2",
         "categories": [ "WEAPONS" ],
+		"required": "MODULAR_CANNON",
         "providesBonus": "EXPLOSIVE2",
         "w": 2, "h": 2,
         "appearance": { "src": "modular_spritesheet", "x": 0, "y": 11, "w": 3, "h": 2 },
@@ -84,6 +89,7 @@
     {
         "name": "MODULAR_EXPLOSIVE3",
         "categories": [ "WEAPONS" ],
+		"required": "MODULAR_CANNON",
         "providesBonus": "EXPLOSIVE3",
         "w": 2, "h": 2,
         "appearance": { "src": "modular_spritesheet", "x": 0, "y": 13, "w": 3, "h": 2 },
@@ -100,6 +106,7 @@
     {
         "name": "MODULAR_SPEED1",
         "categories": [ "WEAPONS" ],
+		"required": "MODULAR_CANNON",
         "variants": [ "MODULAR_SPEED2", "MODULAR_SPEED3" ],
         "providesBonus": "SPEED1",
         "w": 2, "h": 2,
@@ -117,6 +124,7 @@
     {
         "name": "MODULAR_SPEED2",
         "categories": [ "WEAPONS" ],
+		"required": "MODULAR_CANNON",
         "providesBonus": "SPEED2",
         "w": 2, "h": 2,
         "appearance": { "src": "modular_spritesheet", "x": 0, "y": 17, "w": 3, "h": 2 },
@@ -133,6 +141,7 @@
     {
         "name": "MODULAR_SPEED3",
         "categories": [ "WEAPONS" ],
+		"required": "MODULAR_CANNON",
         "providesBonus": "SPEED3",
         "w": 2, "h": 2,
         "appearance": { "src": "modular_spritesheet", "x": 0, "y": 19, "w": 3, "h": 2 },
@@ -149,6 +158,7 @@
 	{
         "name": "MODULAR_AERO1",
         "categories": [ "WEAPONS" ],
+		"required": "MODULAR_CANNON",
 		"variants": [ "MODULAR_AERO2", "MODULAR_AERO3" ],
         "providesBonus": "AERO1",
         "w": 2, "h": 2,
@@ -166,6 +176,7 @@
 	{
         "name": "MODULAR_AERO2",
         "categories": [ "WEAPONS" ],
+		"required": "MODULAR_CANNON",
         "providesBonus": "AERO2",
         "w": 2, "h": 2,
         "appearance": { "src": "modular_spritesheet", "x": 0, "y": 23, "w": 3, "h": 2 },
@@ -182,6 +193,7 @@
 	{
         "name": "MODULAR_AERO3",
         "categories": [ "WEAPONS" ],
+		"required": "MODULAR_CANNON",
         "providesBonus": "AERO3",
         "w": 2, "h": 2,
         "appearance": { "src": "modular_spritesheet", "x": 0, "y": 25, "w": 3, "h": 2 },
@@ -198,6 +210,7 @@
 	{
         "name": "MODULAR_AMMO1",
         "categories": [ "WEAPONS" ],
+		"required": "MODULAR_CANNON",
 		"variants": [ "MODULAR_AMMO2", "MODULAR_AMMO3" ],
         "providesBonus": "AMMO1",
         "w": 2, "h": 2,
@@ -215,6 +228,7 @@
 	{
         "name": "MODULAR_AMMO2",
         "categories": [ "WEAPONS" ],
+		"required": "MODULAR_CANNON",
         "providesBonus": "AMMO2",
         "w": 2, "h": 2,
         "appearance": { "src": "modular_spritesheet", "x": 0, "y": 29, "w": 3, "h": 2 },
@@ -231,6 +245,7 @@
 	{
         "name": "MODULAR_AMMO3",
         "categories": [ "WEAPONS" ],
+		"required": "MODULAR_CANNON",
         "providesBonus": "AMMO3",
         "w": 2, "h": 2,
         "appearance": { "src": "modular_spritesheet", "x": 0, "y": 31, "w": 3, "h": 2 },

@@ -1,0 +1,10 @@
+[
+    {
+        "name": "MODULAR_CANNON",
+        "sort": 4650,
+        "tier": 4,
+        "bonuses": [ "MODULAR_CANNON" ],
+        "dependencies": [ "AUTOMATED_LOADING_SYSTEMS" ],
+        "img": { "src": "modular_spritesheet", "x": 1008, "y": 1008, "w": 16, "h": 16 }
+    }
+]
